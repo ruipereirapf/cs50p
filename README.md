@@ -23,3 +23,7 @@ The CS50 - Introduction to Programming with Python course is designed to teach s
 ## Repository Purpose
 
 This repository serves as a collection of all the code written during the course. It includes every line of code from the exercises and projects, providing a complete reference for the Python programming concepts covered.
+
+## Contact Information
+
+Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/ruifernpereira/) for any questions or collaborations.
